@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function () {
       <h3>${studentName}</h3>
       <p>For successfully completing the course:</p>
       <h3>${courseName}</h3>
-      <p>With the following personalized message:</p>
+      <p>With legendary performance and world-class bad-assery for never giving up:</p>
       <p>${personalMessage}</p>
     `;
     
