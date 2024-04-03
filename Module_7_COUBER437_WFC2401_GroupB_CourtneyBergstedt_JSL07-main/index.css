@@ -113,8 +113,9 @@ button:hover {
   background-color: #5d5f5e;
 }
 
-img {
-  width: 250px;
-  height: 200px;
+.img {
+  text-align: center;
+  height: 100px;
+  width: 100px;
 }
 
